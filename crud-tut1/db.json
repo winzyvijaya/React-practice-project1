@@ -1,0 +1,46 @@
+{"users":
+[
+    {
+        "id": "1",
+        "name": "Vijaya Patil",
+        "username": "viju",
+        "email": "vijaya1234@.bix",
+        "phone": "1974535675"
+    },
+    {
+        "id": "2",
+        "name": "jaya Patil",
+        "username": "jaya",
+        "email": "jaya1234@.bix",
+        "phone": "1974535675"
+    },
+    {
+        "id": "3",
+        "name": "divya Patil",
+        "username": "divya",
+        "email": "divya1234@.bix",
+        "phone": "1974535675"
+    },
+    {
+        "id": "4",
+        "name": "Geeta Patil",
+        "username": "maya",
+        "email": "mayya1234@.bix",
+        "phone": "1974535675"
+    },
+    {
+        "id": "5",
+        "name": "chaya Patil",
+        "username": "chaya",
+        "email": "chaya1234@.bix",
+        "phone": "1974535675"
+    },
+    {
+        "id": "6",
+        "name": "Nivya Patil",
+        "username": "jaya",
+        "email": "jaya1234@.bix",
+        "phone": "1974535675"
+    }
+]
+}

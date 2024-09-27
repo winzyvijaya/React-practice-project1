@@ -1,0 +1,20 @@
+.Navbar {
+    text-align: right;
+}
+/*.Navbar .active{
+    color:brown;
+    background-color: black;
+}*/
+
+.Navbar li{
+             display: inline-block;
+             padding: 10px 5px;
+}
+.nav-bar-link{
+    color: blue;
+    text-decoration: none;
+
+}
+.nav-bar-link:hover{
+ color:aqua;
+}
